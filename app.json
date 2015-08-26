@@ -1,0 +1,13 @@
+{
+  "name": "Salesforce Fuel for Ruby",
+  "description": "Salesforce Marketing Cloud Fuel's Ruby SDK",
+  "repository": "https://github.com/salesforcefuel/Fuel-Ruby-Heroku.git",
+  "logo": "http://image.s6.exacttarget.com/lib/fe9112727360007b77/m/1/Salesforce_Marketing_Cloud.png",
+  "keywords": [
+    "salesforce",
+    "fuel",
+    "ruby   "
+  ],
+  "addons": [],
+  "env": {}
+}
